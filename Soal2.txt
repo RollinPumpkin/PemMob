@@ -1,0 +1,1 @@
+Memahami bahasa pemrograman Dart sebelum menggunakan framework Flutter sangat penting karena Dart adalah dasar dari Flutter. Dengan memahami Dart, kita akan memiliki fondasi yang kuat untuk membangun aplikasi mobile yang efisien dan berkualitas menggunakan Flutter
