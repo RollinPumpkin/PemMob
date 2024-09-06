@@ -1,0 +1,44 @@
+1. Pengenalan Dart
+Dart adalah bahasa pemrograman inti dari framework Flutter, dirancang untuk memberikan pengalaman pengembangan yang modern dan efisien.
+Rilis: Diluncurkan pada 2011, versi stabil pertama pada 2013, dan Dart 2.0 pada akhir 2018 dengan fokus pada pengembangan mobile, terutama untuk Flutter.
+
+2. Fitur Utama Dart
+Productive Tooling: Kakas analisis kode, plugin IDE, dan ekosistem paket yang luas.
+Garbage Collection: Manajemen memori otomatis.
+Type Annotations (Opsional): Untuk keamanan dan konsistensi data.
+Statically Typed: Menyediakan type-safe dan type inference untuk menemukan bug saat kompilasi.
+Portability: Kompilasi ke JavaScript untuk web dan ke kode ARM/x86 untuk aplikasi native.
+
+3. Mode Eksekusi Dart
+Kompilasi JIT (Just-In-Time): Kompilasi kode saat runtime, mendukung debugging dan hot reload.
+Kompilasi AOT (Ahead-Of-Time): Kompilasi kode sebelumnya, memberikan performa yang lebih baik tetapi tidak mendukung debugging atau hot reload.
+
+4. Sintaks dan Operator Dart
+Arithmetic Operators: +, -, *, /, ~/ (pembagian bilangan bulat), % (modulus), -expression (negasi).
+Increment & Decrement Operators: ++var, var++, --var, var--.
+Equality & Relational Operators: ==, !=, >, <, >=, <=.
+Logical Operators: ! (negasi), || (OR), && (AND).
+
+5. Konsep Pemrograman Berorientasi Objek (OOP) dalam Dart
+Object-Oriented: Berdasarkan konsep objek dengan data (fields) dan kode (methods).
+Fitur OOP: Encapsulation, inheritance, composition, abstraction, dan polymorphism.
+Class dan Object: Dart menggunakan class untuk mendefinisikan objek.
+
+6. Mengenal Struktur Bahasa Dart
+Syntax Familiar: Jika Anda berpengalaman dengan bahasa seperti C atau JavaScript, sintaks Dart akan terasa familiar.
+Operators sebagai Methods: Operator di Dart adalah metode dalam class yang memiliki sintaks khusus.
+
+7. Persiapan dan Prasyarat
+Persiapan: PC/Laptop dengan RAM 4GB, Processor Core i3, koneksi internet, dan browser Chrome.
+Pengetahuan yang Diperlukan: Algoritma dan Pemrograman Dasar, Pemrograman Berorientasi Objek.
+
+8. Sumber Daya dan Praktik
+Buku Referensi: Buku Flutter for Beginners - Second Edition, Buku Ajar Pemrograman Mobile Flutter JTI Polinema.
+Eksperimen dan Latihan: Pelajari dan eksperimen dengan Dart untuk memperkuat pemahaman Anda.
+
+Kesimpulan
+Memahami Dart adalah langkah awal penting untuk pengembangan aplikasi dengan Flutter. Dengan fitur modern dan alat yang disediakan, Dart menawarkan fleksibilitas dan performa yang diperlukan untuk membangun aplikasi mobile yang efisien dan canggih.
+
+
+
+
